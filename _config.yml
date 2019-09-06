@@ -1,2 +1,4 @@
 collections:
 - products
+
+theme: jekyll-theme-slate
