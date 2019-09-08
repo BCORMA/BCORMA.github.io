@@ -1,0 +1,23 @@
+---
+excerpt: "<p>\r\n\t<span class=\"td-EndPageBody\"><img alt=\"\" src=\"/sites/default/files/mi-diamond-jubilee-medal-cp.jpg\"
+  style=\"height: 215px; width: 150px; float: left; border-width: 2px; border-style:
+  solid; margin-left: 5px; margin-right: 5px;\" /></span></p>"
+categories:
+- bcorma on-line newsletter
+layout: blog
+title: BCORMA's Executive Director Peter Sprague awarded Queen Elizabeth II Diamond
+  Jubilee Award
+created: 1360873355
+---
+<p>
+	<span class="td-EndPageBody"><img alt="" src="/sites/default/files/mi-diamond-jubilee-medal-cp.jpg" style="height: 215px; width: 150px; float: left; border-width: 2px; border-style: solid; margin-left: 5px; margin-right: 5px;" /></span></p>
+<p class="rtejustify">
+	We are pleased to announce that <strong>BCORMA&#39;s Executive Director Peter Sprague</strong> <span class="td-EndPageBody">has been honoured with a <strong>Queen Elizabeth II Diamond Jubilee Medal</strong> for national trails leadership. He was nominated by the National Trails Coalition for his dedication to trails in BC and Canada.</span></p>
+<p class="rtejustify">
+	Dedicated to sustainability, open access, and family enjoyment of Canada&#39;s diverse trails, Peter&rsquo;s leadership has resulted in creation and environmental improvements of numerous world-class off-road motorcycle trail networks across British Columbia.&nbsp; Now riders and their families enjoy what trails are all about: healthy lifestyles, enjoying Canada&#39;s outdoor beauty, and spending time with each other.</p>
+<p class="rtejustify">
+	&quot;I&#39;m honoured, and will continue to work for BC&#39;s trail networks to be the best in the world.&nbsp; We have a deep history of trails, and they are vital to our community and citizens&#39; well-being.&nbsp; I invite everyone to get out and enjoy them, whether a rider, walker, hiker, mountaineer, runner, an equestrian, from BC, or visiting BC for our 1000s of KM of trails.&nbsp; As one of hundreds of trails stewards across BC, we devote our time to this for everyone to enjoy.&nbsp;</p>
+<p class="rtejustify">
+	<strong>For 2013</strong>, BCORMA is expanding our <strong>Ride School</strong> to include classes for <strong>beginners with no equipment</strong>.&nbsp; This program will be under the MSF curriculum with partnership from all the major manufacturers.&nbsp; Our biggest initiative is to work with the BC Provincial trail federations to build a <strong>trans-provincial trails network</strong> for all users.&nbsp; The goal is for families and others to be able to tour across BC on their off-road motorcycle, horse, quad, bike or a mix, enjoying our historic resource communities and incredible vistas.&nbsp; A weekend or a lifetime adventure.</p>
+<p class="rtejustify">
+	Get out there - Spring is coming and it promises to be another great year for BC&#39;s trails. See you out there.&quot;</p>

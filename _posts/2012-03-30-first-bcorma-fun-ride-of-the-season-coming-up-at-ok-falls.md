@@ -1,0 +1,22 @@
+---
+excerpt: "<p class=\"rtecenter\">\r\n\t<strong>First BCORMA Fun Ride of the season
+  - 2012 Creaky Bones Fun Ride Sunday April/16th at OK Falls</strong></p>\r\n<p class=\"rtecenter\">\r\n\t<a
+  href=\"/sites/default/files/poster.jpg\"><img alt=\"\" src=\"/sites/default/files/medium_poster.jpg\"
+  /></a></p>\r\n<p class=\"rtecenter\">\r\n\tClick on the poster to enlarge for more
+  details &amp; directions.</p>"
+categories:
+- bcorma on-line newsletter
+layout: blog
+title: First BCORMA Fun Ride of the season coming up at OK Falls
+created: 1333143144
+---
+<p class="rtecenter">
+	<strong>First BCORMA Fun Ride of the season - 2012 Creaky Bones Fun Ride Sunday April/16th at OK Falls</strong></p>
+<p class="rtecenter">
+	<a href="/sites/default/files/poster.jpg"><img alt="" src="/sites/default/files/medium_poster.jpg" /></a></p>
+<p class="rtecenter">
+	Click on the poster to enlarge for more details &amp; directions.</p>
+<p>
+	Included with your registration will be a 2012 SODBC membership and a 2012 BCORMA Bronze Trail Pass.&nbsp; This entitles you to a $15.00 discount to the <a href="http://bcorma.geovisionenvironmental.com/catalog/85">BCORMA Ride School</a> on Saturday April 15th.&nbsp; Pre-register for the school in the <a href="http://bcorma.geovisionenvironmental.com/catalog/85">BCORMA Store</a>.</p>
+<p>
+	Bring a copy of your paid pre-registration to the sign-up desk to receive your 2012 SODBC and BCORMA Trail Pass decals.</p>

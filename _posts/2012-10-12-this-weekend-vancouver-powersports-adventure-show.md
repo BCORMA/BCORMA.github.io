@@ -1,0 +1,85 @@
+---
+excerpt: "<p>\r\n\t<strong>This weekend: Vancouver PowerSports Adventure Show At TradeEx,
+  Abbotsford<br />\r\n\tSaturday October 13th 10am - 7pm<br />\r\n\tSunday October
+  14th 10am - 5pm</strong></p>\r\n<p>\r\n\t<strong>Lots going on for all PowerSports
+  Riders!</strong></p>"
+categories:
+- bcorma on-line newsletter
+layout: blog
+title: 'This weekend: Vancouver PowerSports Adventure Show'
+created: 1350069157
+---
+<p>
+	<strong>This weekend: Vancouver PowerSports Adventure Show At TradeEx, Abbotsford<br />
+	Saturday October 13th 10am - 7pm<br />
+	Sunday October 14th 10am - 5pm</strong></p>
+<p>
+	<strong>Lots going on for all PowerSports Riders!</strong></p>
+<ul>
+	<li>
+		Meet Bombardier Ambassador, Dave Norona,Canada&rsquo;s &lsquo;Godfather&rsquo; of Adventure Racing</li>
+	<li>
+		Meet Class 3 Avalanche Survivor, Jeremy Hanke</li>
+	<li>
+		Live Motocross Freestyle FMX</li>
+	<li>
+		Avalanche Prevention Seminars</li>
+	<li>
+		She Shreds Mountain Adventure - Freerider Julie-Ann Chapman</li>
+	<li>
+		Gas Gas Pacific Trials Demo Team</li>
+	<li>
+		Supermoto Competition</li>
+	<li>
+		Yamaha Kids Adventure Zone</li>
+	<li>
+		Test Drive a New Kawasaki ATV or UTV</li>
+	<li>
+		ATV Stunt Show</li>
+	<li>
+		Show &amp; Shine</li>
+	<li>
+		Live Charity Auction</li>
+</ul>
+<p>
+	<strong>Check out the Flyer for details</strong></p>
+<p>
+	Join your Provincial PowerSports Federations at the <a href="http://www.powersportsadventureshow.com/index.php">PowerSports Adventure Show</a> in <span data-scayt_word="Abbortsford" data-scaytid="1">Abbortsford</span> - working hard to make sure you have places to sled, ride and tour.</p>
+<p>
+	From the <span data-scayt_word="PowerSports" data-scaytid="2">PowerSports</span> Show staff and Nanette:</p>
+<p>
+	<em>We&rsquo;d like to invite all dirt bikers, sledders, and <span data-scayt_word="quaders" data-scaytid="3">quaders</span>, along with all other <span data-scayt_word="powersports" data-scaytid="4">powersports</span> enthusiasts to come down to the new Powersports Adventure Show,&nbsp;which is produced by the same team that has produced the Vancouver Motorcycle Show &ndash; the biggest&nbsp;industry motorcycle show in Canada - for the past decade.</em></p>
+<div>
+	<em>Whether you&rsquo;re new to powersports or a seasoned adventurer, the first annual PowerSports Adventure Show has something for everyone. </em></div>
+<ul>
+	<li>
+		<em>Check out custom vehicles, live stunt shows, and top-of-the-line exhibitors and products, including Arctic Cat, Kawasaki, Yamaha, Skidoo, and more. </em></li>
+	<li>
+		<em>Stop by one of our great exhibitor booths to get fully geared up for your next outdoor adventure.&nbsp; </em></li>
+	<li>
+		<em>Meet industry experts from the BC Off Road Motorcycle Association (BCORMA), the Canadian Avalanche Centre, and Canadian Wilderness Adventures for everything you need to know before hitting the trails. </em></li>
+</ul>
+<p>
+	<em>With exhibitors covering everything from booking backcountry tours to buying your newest ride, there&rsquo;s no place better to find all your outdoor adventure and powersport needs.</em></p>
+<p>
+	<strong><span data-scayt_word="BCORMA" data-scaytid="7">BCORMA</span></strong>, <strong><span data-scayt_word="ATVBC" data-scaytid="8">ATVBC</span></strong>, and <strong><span data-scayt_word="BCSF" data-scaytid="9">BCSF</span></strong> will be on the main floor as you walk in. Look for the big booth with the trail kiosk.</p>
+<p>
+	<strong>Answering your questions:</strong></p>
+<ul style="position: relative; z-index: 0; ">
+	<li>
+		How the coming Natural Resource Road Act affects you</li>
+	<li>
+		New &quot;Safety&quot; regulations under <span data-scayt_word="OHV" data-scaytid="12">OHV</span> Framework</li>
+	<li>
+		<span data-scayt_word="BCORMA" data-scaytid="10">BCORMA</span> &amp; <span data-scayt_word="ATVBC's" data-scaytid="15">ATVBC&#39;s</span>&nbsp;coming Charter with the Province</li>
+	<li>
+		What about club events on Crown land?</li>
+	<li>
+		<span data-scayt_word="BCORMA" data-scaytid="11">BCORMA</span> Ride Schools for 2013</li>
+	<li>
+		Where to Ride</li>
+</ul>
+<p>
+	<strong>See you this weekend</strong></p>
+<p>
+	Peter</p>

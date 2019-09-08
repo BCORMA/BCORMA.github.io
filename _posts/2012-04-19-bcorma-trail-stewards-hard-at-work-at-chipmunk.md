@@ -1,0 +1,56 @@
+---
+excerpt: "<p class=\"rtecenter\">\r\n\t<img alt=\"\" src=\"/sites/default/files/Kubota
+  trails April 2009_0091_0.jpg\" /></p>\r\n<p>\r\n\t<strong>Get your 2012 BCORMA Trail
+  Pass in the <a href=\"http://bcorma.geovisionenvironmental.com/catalog\">BCORMA
+  Store</a> or from a club.</strong></p>\r\n<p>\r\n\t<strong>Support all the trail
+  works being done out there so you can have a great ride.</strong></p>"
+categories:
+- bcorma on-line newsletter
+layout: blog
+title: BCORMA Trail Stewards hard at work at Chipmunk
+created: 1334868786
+---
+<p class="rtecenter">
+	<img alt="" src="/sites/default/files/Kubota trails April 2009_0091_0.jpg" /></p>
+<p>
+	<strong>Get your 2012 BCORMA Trail Pass in the <a href="http://bcorma.geovisionenvironmental.com/catalog">BCORMA Store</a> or from a club.</strong></p>
+<p>
+	<strong>Support all the trail works being done out there so you can have a great ride.</strong></p>
+<p>
+	All the funds stay in the dirt bike community, and support stewards like the Chipmunk Creek Trail Riders with chain saw fuel, shovels, diesel fuel for Wally&#39;s hoe, saw chain, and all the other things they use up in a year.</p>
+<p>
+	Read Wally&#39;s story for a great view on all the work these volunteers do for all the riders.</p>
+<p>
+	<em>Hi guys</em></p>
+<p>
+	<em>I reckon that all of you went riding on the Easter weekend, with all the great weather and fun trails available. Oh, you say you had to stay home and mow the lawn. Yeah, well, I guess we all have our priorities.</em></p>
+<p>
+	<em>Both the Chipmunk and the Rapids campsites were filled up with ATV and bike riders, with the overflow camping spread out along the Bench Road. Cool. That&rsquo;s the way it should be. There were six of us clearing trails and roosting through some new stuff. Good weather, good trails, good times.</em></p>
+<p>
+	<em>Chris is calling for another work party this Sunday, April 22. Meet at the Rapids campsite at 9:00am. If you are late, they&rsquo;ll be working on the west side of the creek from Don&rsquo;t Get Shafted.</em></p>
+<p>
+	<em>Our Kubota trail building machine. It will be in action starting tomorrow and continuing all week until the proposed section is completed. Yeah, sometimes we get tired of swinging pickaxes.</em></p>
+<p class="rtecenter">
+	<em><img alt="" src="/sites/default/files/P5040008_0.JPG" /></em></p>
+<p>
+	<em>A couple photos from a mid March work party. In the first, Dave Siefert got to be the first rider through the final section of Token Bears, which was a hoot with all those snow-covered sticks.In the second, you can see the fine weather we enjoyed while trail hacking. The following weekend was much drier and the traction excellent, we just roosted through there.</em></p>
+<p class="rtecenter">
+	<img alt="" src="/sites/default/files/P3110087_edited-1_0.jpg" /></p>
+<p class="rtecenter">
+	<img alt="" src="/sites/default/files/P3110090_0.jpg" /></p>
+<p>
+	<em>The next photo shows a trail previously marked &ldquo;No ATVs&rdquo; being re-signed as &ldquo;Expert ATV&rdquo;. That&rsquo;s Jacquie Horn, President of the Right Nuts, placing the decals. Expect to see more ATV&rsquo;s in the coming months as we work with the club and propose routes that they could upgrade and help maintain for ATV use. Many of our favourite singletrack sections will remain motorcycle-only due to narrow sidehill cuts and bridges not suitable for the bigger machines, but it&rsquo;s surprising the terrain a determined rider can get a quad through. Just by designating some routes as shared trails, we&rsquo;ve made some new friends and majorly increased our influence with government agencies.</em></p>
+<p class="rtecenter">
+	<em><img alt="" src="/sites/default/files/563939_10151418903820459_691455458_23330715_1275025400_n_0.jpg" /></em></p>
+<p>
+	<em>For all the new riders on the email list, I&rsquo;ve attached a <a href="/sites/default/files/History%20of%20Chipmunk%20Creek.pdf">brief history of the riding area</a>. Yeah, we&rsquo;ve been around a while, and with your help, we&rsquo;ll be here for a long time to come.</em></p>
+<p>
+	<em>Which reminds me, have you got your BCORMA Trail Pass yet? The GVMC have some for sale or you can get them online.</em></p>
+<p>
+	<em>With a number of trail sections to work on, we can use all the hands we can get, so we can fit in a little riding as well. See you out there!</em></p>
+<p>
+	<em>Cheers<br />
+	Wally Klammer<br />
+	GVMC, CCTR, BCORMA </em></p>
+<p>
+	<strong>Support us as your Provincial Off-Road Motorcycle Federation to make sure we have great places to Ride!</strong></p>

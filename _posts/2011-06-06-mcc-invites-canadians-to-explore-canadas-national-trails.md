@@ -1,0 +1,26 @@
+---
+excerpt: "Canada-Wide - June 1, 2011:  The Motorcyclists Confederation of Canada (MCC)
+  is pleased to support the celebration of International Trails Day in Canada, which
+  is a perfect opportunity to explore the numerous trails throughout the country and
+  support the local not-for-profit and community organizations that maintain them.
+  \ MCC recognizes the leadership role of the provincial off-road motorcycling federations
+  in educating riders and promoting safe and responsible trail riding.\r\n\r"
+categories:
+- bcorma on-line newsletter
+layout: blog
+title: MCC INVITES CANADIANS TO EXPLORE CANADA'S NATIONAL TRAILS
+created: 1307382140
+---
+Canada-Wide - June 1, 2011:  The Motorcyclists Confederation of Canada (MCC) is pleased to support the celebration of International Trails Day in Canada, which is a perfect opportunity to explore the numerous trails throughout the country and support the local not-for-profit and community organizations that maintain them.  MCC recognizes the leadership role of the provincial off-road motorcycling federations in educating riders and promoting safe and responsible trail riding.
+
+"The off-road motorcycle federations and their member clubs ensure Canada's vast trail systems remain a healthy and safe family-focussed environment for trail riders," said Daniel Tessier, President of MCC.  "New and experienced riders are encouraged to contact these organizations to learn more about the incredible opportunities and adventures for trail riding in Canada."
+
+In addition to being an increasingly popular recreational activity for Canadians of all ages, a recent comprehensive physical fitness study undertaken by York University concluded that off-road vehicle riding is a moderate-intensity cardiovascular activity, with a wealth of positive muscular strength challenges, similar to other self-paced recreational sports such as golf, rock-climbing and alpine skiing.
+
+"The York University study confirms what we already know, that off-road motorcycle riding is an effective exercise stimulus that results in positive changes in an individual's fitness, health and quality of life," added Tessier."  We expect International Trails Day to encourage new riders and their families to become involved with this exciting, healthy and invigorating sport and recreational activity."
+
+Across the country, the provincial off-road federations have worked tirelessly over the years to keep trail riding accessible and safe.  For example, the British Columbia Off-Road Motorcycle Association actively manages about 3,500 kms of off-road motorcycling trails while the Ontario Federation of Trail Riders administered one of the largest National Trails Coalition projects in Canada.  The Nova Scotia Off-Road Riders Association, the New Brunswick Off-Road Motorcycles Federation, the Alberta Off-Highway Vehicle Association and La Fédération Québecoise des motos hors-route provide excellent stewardship for trail riding at the provincial level, and champion safe youth riding. 
+
+These success stories only scratch the surface of the work done by provincial federations and their member clubs.  As advocates, their efforts ensure the trail riders perspective on issues such as trail closures, land access, sound emissions and junior riders are represented fairly at every level of government.
+
+Comprised of national, provincial and territorial organizations, regional clubs, individual members and industry representatives, the Motorcyclists Confederation of Canada is a national, grassroots advocacy organization championing motorcycling interests throughout Canada.

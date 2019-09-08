@@ -1,0 +1,35 @@
+---
+excerpt: "<p><strong>Call to Action for all Motorcyclists!!! Please click the logo
+  and complete the MCC Online Survey.</strong></p>\r\n\r\n<p><a href=\"http://circum.com/mcc\"><img
+  alt=\"\" src=\"/sites/default/files/Online%20Survey%20Logo_350x102.png\" style=\"border-style:solid;
+  border-width:5px; height:102px; margin:10px; width:350px\" /></a></p>\r\n\r\n<p>http://circum.com/mcc</p>"
+categories:
+- bcorma on-line newsletter
+layout: blog
+title: Call to Action for all Canadian Motorcyclists!!!  Please complete the MCC Online
+  Survey.
+created: 1421347836
+---
+<p><strong>Call to Action for all Motorcyclists!!! Please click the logo and complete the MCC Online Survey.</strong></p>
+
+<p><a href="http://circum.com/mcc"><img alt="" src="/sites/default/files/Online%20Survey%20Logo_350x102.png" style="border-style:solid; border-width:5px; height:102px; margin:10px; width:350px" /></a></p>
+
+<p>http://circum.com/mcc</p>
+
+<p>This survey asks you to share some of your motorcycling highlights and experiences during 2014. Sharing these memories will guide your clubs and associations in assembling future events and lobbying governments to enhance our sport. Your support in completing the survey is a quick and effective way to support your local, provincial, and national organizations while strengthening their capacity to serve you.</p>
+
+<p>Smith Gunther Associates will treat all individual information as confidential and only results aggregated at the event, provincial or federal levels will be released and/or used for analytical purposes.</p>
+
+<p>Thanks for your cooperation in completing this survey at your earliest possible convenience.</p>
+
+<p>Dave Millier<br />
+Vice Chair, MCC<br />
+President, OFTR<br />
+416-277-8959<br />
+dave@oftr.ca</p>
+
+<p>Peter E Gunther<br />
+President<br />
+Smith Gunther Associates Ltd<br />
+613 823-0513<br />
+pgunther@bellnet.ca</p>

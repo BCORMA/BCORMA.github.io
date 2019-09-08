@@ -1,0 +1,30 @@
+---
+excerpt: "<p>BCORMA needs everyone&#39;s&#39; reports on their attempts at registration
+  and any information that was provided by the broker(s). Please reach out to anyone
+  you know with a dirt bike, quad, SxS, or sled and that have attempted or been successful
+  under the volunteer ORV registration program.</p>"
+categories:
+- bcorma on-line newsletter
+layout: blog
+title: ORV Registration Errors Costing Riders Real $$$ - We Need Your Stories
+created: 1426287532
+---
+<p>BCORMA needs everyone&#39;s&#39; reports on their attempts at registration and any information that was provided by the broker(s). Please reach out to anyone you know with a dirt bike, quad, SxS, or sled and that have attempted or been successful under the volunteer ORV registration program.</p>
+
+<p>I am getting daily email and phone calls about riders who are given incorrect information when they go to some of their local ICBC brokers. I&#39;ve heard stories about stating everyone requires insurance to ride on Crown Land, kids can&#39;t ride on Crown Land if under 16, all riders have to buy the ICBC insurance, requirements for documentation that are expensive to acquire and unnecessary, taxation due, etc.</p>
+
+<div>
+<p>I&#39;ve also heard and spoke with Brokers who have and understand the facts. Problem is that how is a rider who has not been at the confidential discussions supposed to be able to discern fact from fiction.</p>
+
+<p>Many riders are then spending $100s if not $1000s plus hours of their time to erroneously comply with what some ICBC brokers are describing as fact. Added all up across the Province and we could be talking millions of dollars even before the actual mandatory registration comes into effect on June 1st, 2015.</p>
+
+<p>Please post the stories to <a href="https://www.facebook.com/groups/11140817555/">BCORMA&#39;s Facebook page</a> so that government staff and Ministers can see that this is a broad public problem beyond Ken&#39;s or my voice.</p>
+
+<p>We need to collect as many of these stories as we can and present them to Minister Thomson as evidence why the current government implementation of the ORV has to be delayed until the systemic problems with the ORV Act implementation are fixed.</p>
+
+<p>Thanks, and have great weekend,</p>
+
+<p>Peter<br />
+peter.sprague@bcorma.ca<br />
+&nbsp;</p>
+</div>
